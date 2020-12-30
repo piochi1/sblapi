@@ -1,0 +1,19 @@
+{
+  "name": "@shadowbot/sblapi",
+  "version": "1.0.0",
+  "description": "API Officiel de SBL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "piochi1",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {}
+}
